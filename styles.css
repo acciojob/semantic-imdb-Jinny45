@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+*{
+	background:#999999;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 25px;
+  float:right;
+  font-style: italic;
+  bottom:
+}
+nav{
+	border:1px solid black;
+	padding:20px;
+	margin-left:20px;
+}
+header{
+	color:white;
+}
+a{
+	color:black;
+	margin-top:20px;
+}
+p{
+	color:white;
+	margin-top:20px;
+}
+footer{
+	color:white;
+}
